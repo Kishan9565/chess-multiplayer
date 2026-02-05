@@ -44,5 +44,6 @@ chess-multiplayer:
 
 1. Clone the repository
 ```bash
+https://github.com/Kishan9565/chess-multiplayer.git
 
 
