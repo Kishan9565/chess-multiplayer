@@ -26,4 +26,23 @@ Players can join, get assigned roles (White / Black), and play chess live in the
 ---
 
 ## 📁 Project Structure
+chess-multiplayer:
+  server.js
+  package.json
+  README.md
+  public:
+    index.html
+    css:
+      style.css
+    js:
+      chessgame.js
+
+
+---
+
+## ⚙️ Installation & Setup (Local)
+
+1. Clone the repository
+```bash
+
 
